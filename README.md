@@ -8,7 +8,7 @@
 * **Domain:** Java Programming
 * **Project:** Hotel Reservation System
 * **Intern Name:** Nalam Dharani Lakshmi Tejaswini
-* **Roll Number:** 23491A0541
+* **𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗:** CA/DF1/107878 
 * **College:** QIS College of Engineering and Technology
 
 ---
@@ -88,5 +88,5 @@ Room No: 103 | Category: Suite | Price: ₹3000.0 | Status: Available
 ## Author
 
 * **Name:** Nalam Dharani Lakshmi Tejaswini
-* **Roll Number:** 23491A0541
+* **𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗:** CA/DF1/107878 
 * **College:** QIS College of Engineering and Technology
